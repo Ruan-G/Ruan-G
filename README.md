@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruan-G
 - 👀 I’m interested in  HTML, CSS e JS.
 - 🌱 I’m currently learning  HTML, CSS e JS.
-- 💞️ I’m looking to collaborate on  empresas que valorizem a profissão.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rgaia4789@gmail.com
 
 <!---
